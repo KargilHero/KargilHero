@@ -11,7 +11,7 @@
 - 🔭 I’m currently working on to-do list
 - 🌱 Learning MERN stack deeply with a focus on clean UI/UX
 - 💬 Ask me about **JavaScript, React, Node.js, CSS tricks, Web Animations**
-- 📫 Reach me at: `devsharma.flip@gmail.com` (update with real email)
+- 📫 Reach me at: `devsharma.flip@gmail.com`
 - 🎯 Fun fact: I turn ☕ into beautiful code and bugs into features 😄
 
 ---
