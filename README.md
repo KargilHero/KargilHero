@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm KargilHero</h1>
+<h1 align="center">Hi 👋, I'm Dev Sharma</h1>
 <h3 align="center">A passionate Developer | Tech Enthusiast | Creative Thinker</h3>
 
 <p align="center">
@@ -8,17 +8,17 @@
 ---
 
 🌟 **About Me**
-- 🔭 I’m currently working on some 🔥 creative front-end projects
+- 🔭 I’m currently working on to-do list
 - 🌱 Learning MERN stack deeply with a focus on clean UI/UX
 - 💬 Ask me about **JavaScript, React, Node.js, CSS tricks, Web Animations**
-- 📫 Reach me at: `kargilhero@example.com` (update with real email)
+- 📫 Reach me at: `devsharma.flip@gmail.com` (update with real email)
 - 🎯 Fun fact: I turn ☕ into beautiful code and bugs into features 😄
 
 ---
 
 🛠️ **Tech Stack**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,git,github,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,java,git,github,vscode,figma" />
 </p>
 
 ---
@@ -33,14 +33,14 @@
 
 🌐 **Let's Connect**
 <p align="center">
-  <a href="https://linkedin.com/in/yourusername" target="_blank">
+  <a href="https://www.linkedin.com/in/dev-sharma-29a71823b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="mailto:kargilhero@example.com">
+  <a href="mailto:devsharma.flip@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://twitter.com/yourusername">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+   <a href="https://x.com/yourusername">
+    <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
   <a href="https://yourportfolio.com">
     <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white" />
