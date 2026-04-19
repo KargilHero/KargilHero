@@ -56,17 +56,6 @@
   </a>
 </p>
 
----
-
- **Pinned Projects**
-
-<p align="center">
-
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KargilHero&repo=task-dashboard&theme=tokyonight" />
-
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KargilHero&repo=Rock-paper-Scissor&theme=tokyonight" />
-
-</p>
 
 ---
 
