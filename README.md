@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dev Sharma</h1>
+<h1 align="center">Hi , I'm Dev Sharma</h1>
 
 <h3 align="center">A passionate Developer | Tech Enthusiast | Creative Thinker</h3>
 
@@ -59,12 +59,6 @@
   <a href="mailto:devsharma.flip@gmail.com">
 
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-
-  </a>
-
-   <a href="https://x.com/yourusername">
-
-    <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=x&logoColor=white" />
 
   </a>
 
