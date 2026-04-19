@@ -12,15 +12,11 @@
 
 **About Me**
 
--  I’m currently working on to-do list
-
 -  Learning MERN stack deeply with a focus on clean UI/UX
 
 -  Ask me about **JavaScript, React, Node.js, CSS tricks, Web Animations**
 
 -  Reach me at: devsharma.flip@gmail.com
-
--  Fun fact: I turn  into beautiful code and bugs into features 
 
 ---
 
@@ -49,25 +45,15 @@
  **Let's Connect**
 
 <p align="center">
-
-  <a href="https://www.linkedin.com/in/dev-sharma-29a71823b/" target="_blank">
-
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
-
+  <a href="https://www.linkedin.com/in/dev-sharma-29a71823b/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
   </a>
-
   <a href="mailto:devsharma.flip@gmail.com">
-
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-
   <a href="https://yourportfolio.com">
-
-    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white" />
-
+    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white"/>
   </a>
-
 </p>
 
 ---
