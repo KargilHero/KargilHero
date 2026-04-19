@@ -4,27 +4,27 @@
 
 <p align="center">
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=500&lines=Full-Stack+Web+Developer;MERN+Stack+Explorer;CSS+Wizard+🧙;Tech+Lover+❤️;Open+Source+Fan+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=500&lines=Full-Stack+Web+Developer;MERN+Stack+Explorer;CSS+Wizard+;Tech+Lover+;Open+Source+Fan+%F0%9F%92%BB" alt="Typing SVG" />
 
 </p>
 
 ---
 
-🌟 **About Me**
+**About Me**
 
-- 🔭 I’m currently working on to-do list
+-  I’m currently working on to-do list
 
-- 🌱 Learning MERN stack deeply with a focus on clean UI/UX
+-  Learning MERN stack deeply with a focus on clean UI/UX
 
-- 💬 Ask me about **JavaScript, React, Node.js, CSS tricks, Web Animations**
+-  Ask me about **JavaScript, React, Node.js, CSS tricks, Web Animations**
 
-- 📫 Reach me at: devsharma.flip@gmail.com
+-  Reach me at: devsharma.flip@gmail.com
 
-- 🎯 Fun fact: I turn ☕ into beautiful code and bugs into features 😄
+-  Fun fact: I turn  into beautiful code and bugs into features 
 
 ---
 
-🛠️ **Tech Stack**
+ **Tech Stack**
 
 <p align="center">
 
@@ -34,7 +34,7 @@
 
 ---
 
-📊 **GitHub Stats**
+ **GitHub Stats**
 
 <p align="center">
 
@@ -46,7 +46,7 @@
 
 ---
 
-🌐 **Let's Connect**
+ **Let's Connect**
 
 <p align="center">
 
@@ -78,7 +78,7 @@
 
 ---
 
-📌 **Pinned Projects**
+ **Pinned Projects**
 
 <p align="center">
 
@@ -90,7 +90,7 @@
 
 ---
 
-🧠 **Quote of the Day**
+ **Quote of the Day**
 
 > "First, solve the problem. Then, write the code." – John Johnson
 
