@@ -12,11 +12,11 @@
 
 * Building full-stack applications using the MERN stack with a focus on scalability and clean architecture
 
-* Exploring Artificial Intelligence and Machine Learning with practical implementations
+* Exploring Artificial Intelligence and Machine Learning through practical projects
 
-* Combining Web Development and ML to create intelligent, real-world applications
+* Combining Web Development and ML to create intelligent, real-world systems
 
-* Currently working on projects involving Resume Analysis, Job Matching Systems, and Data-driven features
+* Currently working on Resume Analysis, Job Matching Systems, and data-driven applications
 
 * Ask me about **JavaScript, React, Node.js, APIs, MongoDB, Basic NLP, ML Integration**
 
@@ -27,26 +27,44 @@
 **Tech Stack**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,python,java,git,github,vscode,figma" />
+
+<strong>Frontend</strong><br/> <img src="https://skillicons.dev/icons?i=html,css,js,react" /><br/><br/>
+
+<strong>Backend</strong><br/> <img src="https://skillicons.dev/icons?i=nodejs,express" /><br/><br/>
+
+<strong>Database</strong><br/> <img src="https://skillicons.dev/icons?i=mongodb,mysql" /><br/><br/>
+
+<strong>AI / ML</strong><br/> <img src="https://skillicons.dev/icons?i=python" /><br/> <span>NumPy • Pandas • Scikit-learn • Basic NLP</span><br/><br/>
+
+<strong>Tools & Technologies</strong><br/> <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+
 </p>
 
 ---
 
-**AI/ML + Web Focus**
+**What I Focus On**
 
-* Full-stack applications with integrated ML services
-* Resume parsing and skill extraction using NLP
-* Backend to ML API communication (Node.js + Python)
-* Data-driven features and intelligent user experiences
+* Building scalable full-stack applications using the MERN stack
+* Integrating Machine Learning models into web applications
+* Designing clean APIs and connecting frontend with backend + ML services
+* Creating data-driven features with real-world use cases
 
 ---
 
 **GitHub Stats**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KargilHero&show_icons=true&theme=tokyonight" alt="KargilHero's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KargilHero&theme=tokyonight" alt="KargilHero's GitHub streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KargilHero&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KargilHero&theme=tokyonight" alt="GitHub streak" />
 </p>
+
+---
+
+**Featured Work (In Progress)**
+
+* AI Resume Analyzer with NLP and job role prediction
+* Full-stack hiring platform with candidate-job matching
+* Data-driven web applications with ML integration
 
 ---
 
